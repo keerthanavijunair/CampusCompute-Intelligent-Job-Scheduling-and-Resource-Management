@@ -1,0 +1,13 @@
+# Compiled executables
+campuscompute
+test_person1
+test_person2
+shared_memory
+test_process
+test_resource
+
+# Generated logs
+logs.txt
+
+# Submission archive
+CampusCompute_Source.zip
