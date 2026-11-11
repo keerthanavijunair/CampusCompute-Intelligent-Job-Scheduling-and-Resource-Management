@@ -44,3 +44,25 @@ Exit the application using menu option 0. The application cleans up its created 
 
 ## Generated Log
 The producer-consumer logger writes its output to `logs.txt`.
+
+## Team Contributions
+
+### Khushee Kundra (PES1UG25CS256)
+Responsible for Person 1 modules:
+- **FR1:** Job Management and Process Lifecycle.
+- **FR2:** CPU Scheduling Algorithms (FCFS, Round Robin and Non-preemptive Priority Scheduling).
+- **FR5:** Banker's Algorithm for Deadlock Avoidance.
+
+### Keerthana Viju Nair (PES1UG25CS249)
+Responsible for Person 2 modules:
+- **FR3:** Producer-Consumer Synchronization using POSIX Threads.
+- **FR4:** Inter-Process Communication using Shared Memory and Semaphores.
+- **FR6:** Process Management using `fork()` and `waitpid()`.
+- **FR7:** Resource Management using `setrlimit()` and `getrlimit()`.
+
+### Joint Contributions
+Both team members contributed to:
+- Integration of individual modules into the complete CampusCompute application.
+- Testing and verification of functional requirements.
+- Debugging and resolving integration issues.
+- Overall project development and final validation.
